@@ -1,12 +1,12 @@
 
 
-// const MovieInfoComponent=(props)=>{
-//     const {Title, Year, imdbID, Type, Poster} = props.movie;
+const MovieInfoComponent=(props)=>{
+    const {Title, Year, imdbID, Type, Poster} = props.movie;
     
-//     return(
-//     <>
+    return(
+    <>
 
-//     </>
-//     );
-//     };
-//     export default MovieInfoComponent;
+    </>
+    );
+    };
+    export default MovieInfoComponent;
